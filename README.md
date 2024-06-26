@@ -35,6 +35,8 @@ Your mission is to utilize Tableau's robust capabilities to craft a compelling n
 7. **PerformanceRating**: The performance rating of the employee (out of 10).
 8. **Employee Training Record:** Training records for each employee.
 
+# Project Images
+
 ![Screenshot (77)](https://github.com/Shubham999-code/Enhancing-Manufacturing-Efficiency-Through-Data-Driven-Insight-PowerBI-Project/assets/120647088/aaaea92b-1fdf-4a13-aaa5-8e149dd19eaa)
 
 
