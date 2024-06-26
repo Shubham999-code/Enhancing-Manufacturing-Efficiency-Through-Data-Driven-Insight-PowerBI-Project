@@ -14,6 +14,8 @@ In a manufacturing landscape where efficiency, cost management, and employee per
 
 Your mission is to utilize Tableau's robust capabilities to craft a compelling narrative from the provided datasets. This task will encompass thorough data preparation, intelligent data modeling, and the skillful application of calculated fields and Tableau functions for sophisticated analysis. The ultimate aim is to construct an interactive and intuitive dashboard in Tableau that showcases your key discoveries, offering concise, actionable insights into the optimization of hotel operations and performance.
 
+**The "ManufacturingDataset1.xlsx" file contains the following columns:**
+
 1. **ProductID**: A unique identifier for each product.  (Primary Key)
 2. **ProductType**: The type of the product (e.g., Electronics, Furniture).
 3. **ProductionDate**: The date when the product was manufactured.
