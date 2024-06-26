@@ -23,3 +23,14 @@ Your mission is to utilize Tableau's robust capabilities to craft a compelling n
 5. **CountryOfOrigin**: The country where the product was manufactured.
 6. **QuantityProduced**: The quantity of the product produced.
 7. **WarehouseLocation**: The location of the warehouse where the product is stored.
+
+**The "ManufacturingDataset2.xlsx" file contains the following columns:**
+
+1. **EmployeeID**: A unique identifier for each employee.
+2. **Department**: The department in which the employee works.
+3. **HireDate**: The date when the employee was hired.
+4. **Salary**: The salary of the employee.
+5. **CountryOfOperation**: The country where the employee operates.
+6. **ProductID**: A unique identifier for products, corresponding to 'ProductID' in "ManufacturingDataset1.xlsx".  (Foreign Key)
+7. **PerformanceRating**: The performance rating of the employee (out of 10).
+8. **Employee Training Record:** Training records for each employee.
