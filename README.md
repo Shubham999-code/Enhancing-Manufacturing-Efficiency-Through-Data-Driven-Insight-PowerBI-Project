@@ -35,39 +35,40 @@ Your mission is to utilize Tableau's robust capabilities to craft a compelling n
 7. **PerformanceRating**: The performance rating of the employee (out of 10).
 8. **Employee Training Record:** Training records for each employee.
 
-![Uploading Screenshot (77).png…]()
+![Screenshot (77)](https://github.com/Shubham999-code/Enhancing-Manufacturing-Efficiency-Through-Data-Driven-Insight-PowerBI-Project/assets/120647088/aaaea92b-1fdf-4a13-aaa5-8e149dd19eaa)
+
 
 
 ![Screenshot (78)](https://github.com/Shubham999-code/Enhancing-Manufacturing-Efficiency-Through-Data-Driven-Insight-PowerBI-Project/assets/120647088/8ce1eb5b-46cb-4975-94c4-ba42f8f234d0)
 
+![Screenshot (79)](https://github.com/Shubham999-code/Enhancing-Manufacturing-Efficiency-Through-Data-Driven-Insight-PowerBI-Project/assets/120647088/824fb804-3281-4a12-b1cc-dd116ec5f08a)
                                           
-![Uploading Screenshot (79).png…]()
 
-![Uploading Screenshot (80).png…]()
+![Screenshot (80)](https://github.com/Shubham999-code/Enhancing-Manufacturing-Efficiency-Through-Data-Driven-Insight-PowerBI-Project/assets/120647088/2302f816-724e-4031-bde9-c87519779b69)
 
-![Uploading Screenshot (81).png…]()
+![Screenshot (81)](https://github.com/Shubham999-code/Enhancing-Manufacturing-Efficiency-Through-Data-Driven-Insight-PowerBI-Project/assets/120647088/74c6963e-1206-4e9d-9ac8-74b9b90d5051)
 
 
 ![Screenshot (82)](https://github.com/Shubham999-code/Enhancing-Manufacturing-Efficiency-Through-Data-Driven-Insight-PowerBI-Project/assets/120647088/2c03ab77-2d5c-4556-9cbd-3ce71e08f1c5)
 
 
-![Uploading Screenshot (83).png…]()
+![Screenshot (83)](https://github.com/Shubham999-code/Enhancing-Manufacturing-Efficiency-Through-Data-Driven-Insight-PowerBI-Project/assets/120647088/fcf5f126-33e2-4f33-b29a-08c6cc9f7c76)
 
 
 ![Screenshot (84)](https://github.com/Shubham999-code/Enhancing-Manufacturing-Efficiency-Through-Data-Driven-Insight-PowerBI-Project/assets/120647088/0b0cb647-33c0-48fa-ac36-48b9eca6026f)
 
 
 
-![Uploading Screenshot (85).png…]()
+![Screenshot (85)](https://github.com/Shubham999-code/Enhancing-Manufacturing-Efficiency-Through-Data-Driven-Insight-PowerBI-Project/assets/120647088/f4dbf699-7291-488d-83b7-4e6b41d96941)
 
 
 
-![Uploading Screenshot (86).png…]()
+![Screenshot (86)](https://github.com/Shubham999-code/Enhancing-Manufacturing-Efficiency-Through-Data-Driven-Insight-PowerBI-Project/assets/120647088/1a90f1d5-ab76-4377-98ad-45bc775bdebf)
 
 
 
 
-![Uploading Screenshot (87).png…]()
+![Screenshot (87)](https://github.com/Shubham999-code/Enhancing-Manufacturing-Efficiency-Through-Data-Driven-Insight-PowerBI-Project/assets/120647088/022e1e88-b078-49c1-ab3e-c75071c801b5)
 
 
 ![Screenshot (88)](https://github.com/Shubham999-code/Enhancing-Manufacturing-Efficiency-Through-Data-Driven-Insight-PowerBI-Project/assets/120647088/713f199b-0628-4574-94c9-53aa4f55f4f6)
