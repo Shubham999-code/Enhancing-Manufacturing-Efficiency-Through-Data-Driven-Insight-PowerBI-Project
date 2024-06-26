@@ -1,4 +1,4 @@
-# Enhancing-Manufacturing-Efficiency-Through-Data-Driven-Insight-PowerBI-Project
+# Enhancing-Manufacturing-Efficiency-Through-Data-Driven-Insight-Tableau-Project
 
 ![image](https://github.com/Shubham999-code/Enhancing-Manufacturing-Efficiency-Through-Data-Driven-Insight-PowerBI-Project/assets/120647088/f3253a85-0cb2-4773-ae71-b5b9afe611aa)
 
